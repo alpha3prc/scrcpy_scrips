@@ -1,0 +1,1 @@
+adb -s 2c564071 shell svc usb setFunctions rndis
